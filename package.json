@@ -1,0 +1,12 @@
+{
+  "name": "Diagnosis",
+  "version": "0.0.1",
+  "description": "Diagnosis game",
+  "license": "BSD-3-Clause",
+  "people": "Wesley Burd jelly147@googlemail.com",
+  "main": "client.js",
+  "respository": "",
+  "devDependencies": {
+    "electron": "^1.6.11"
+  }
+}
